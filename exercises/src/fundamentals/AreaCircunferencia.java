@@ -12,6 +12,6 @@ public class AreaCircunferencia {
         raio = 10;
         area = pi * raio * raio;
 
-        System.out.println("A área da circunferência de raio " + raio + " é: " + area);
+        System.out.println("A área da circunferência de raio " + raio + " é: " + area + "m2.");
     }
 }
