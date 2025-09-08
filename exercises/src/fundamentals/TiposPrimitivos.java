@@ -2,7 +2,7 @@ package fundamentals;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {
-        // Informações do funcionario
+        // Informações do funcionário
 
         // Tipos numéricos inteiros
         byte anosDeEmpresa = 23;
@@ -14,7 +14,7 @@ public class TiposPrimitivos {
         float salario = 11_445.44F;
         double vendasAcumuladas = 2_991_797_103.01;
 
-        // Tipo booleano
+        // Tipo boolean
         boolean estaDeFerias = false; //true
 
         // Tipo caractere
